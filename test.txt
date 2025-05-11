@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 this is from windows 
 this is from vs code
 this is from git hub
 this is from linux
+=======
+this is from windows
+this is from vs code
+this is from git hub
+>>>>>>> 24ed34d0d26e815be63b6eed1f259e54e96b3bd8
