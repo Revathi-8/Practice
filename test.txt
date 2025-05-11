@@ -1,6 +1,6 @@
 this is from windows 
 this is from vs code
 this is from git hub
-this is from linux
+this is from amazon-linux
 this is testing-new
 this is from feature-2
